@@ -1,2 +1,2 @@
-# autoclicker-au3
-simple autoclicker coded in autoit
+# ClickIt Autoclicker
+simple autoclicker made with autoit
