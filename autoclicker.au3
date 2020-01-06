@@ -1,6 +1,5 @@
 ; simple autoclicker
 ; use at your own risk
-; krotesq 2019 // krotesq.net
 
 #NoTrayIcon
 #include <Misc.au3>	; needed for '_IsPressed'
