@@ -34,5 +34,5 @@ While True	; main loop
    While _IsPressed('05')	; 05 = Mousebutton x1
 	  click('right', $delay_right)
    WEnd
-
+	 
 WEnd
