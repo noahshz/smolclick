@@ -10,7 +10,7 @@ If you find a bug, please create an [Issue](https://github.com/noahshz/smolclick
 - **Description**: Detailed explanation of the bug
 - **Steps to Reproduce**: How can the bug be replicated?
 - **Expected Behavior**: What should happen?
-- **Actual Behavior**: What happens instead?
+- **Actual Behavior**: What happens insteed?
 - **Environment**: Operating system, browser, project version, etc.
 
 ### 2. Suggesting Features
@@ -44,7 +44,7 @@ To contribute code, follow these steps:
 
 6. **Push and Create a Pull Request**:
    - Push your branch: `git push origin feature/your-feature-name`
-   - Create a Pull Request (PR) on GitHub and describe your changes in detail.
+   - Create a Pull Request (PR) on Github and describe your changes in detail.
    - Link relevant Issues in the PR.
 
 ### 4. Coding Standards
